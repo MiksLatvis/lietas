@@ -1,5 +1,6 @@
 body {
 	background: #fafafa;
+	overflow: hidden;
 }
 #timeline {
 	height: calc(100vh - 20px);
