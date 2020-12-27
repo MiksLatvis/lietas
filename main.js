@@ -54,7 +54,7 @@ function drawChart() {
     ['Cietie diski', 'Western Digital 2.5" My Passport Essential SE 1TB (64.00 Ls);', new Date(2011, 6, 1), new Date(today)],
     ['Cietie diski', 'LaCie 2TB Rugged Thunderbolt USB 3.0', new Date(2015, 1, 20), new Date(today)],
     ['Cietie diski', 'WD Elements Portable 2TB USB 3.0 76EUR', new Date(2018, 3, 4), new Date(today)],
-    ['Cietie diski', 'SanDisk SSD 2TB', new Date(2020, 3, 4), new Date(today)],
+    ['Cietie diski', 'SanDisk SSD 2TB', new Date(2020, 11, 3), new Date(today)],
     ['Monitors', 'DELL Dell 24"', new Date(2012, 6, 1), new Date(2016, 8, 20)],
     ['Monitors', 'DELL Dell 24" lieto vecāki', new Date(2016, 8, 20), new Date(today)],
     ['Monitors', 'DELL Dell 27" P2715Q 4K (Japānā)', new Date(2017, 0, 1), new Date(today)],
