@@ -48,6 +48,7 @@ function drawChart() {
     ['Dators', 'iMac 27"', new Date(2010, 8, 22), new Date(2011, 5, 20)],
     ['Dators', 'MacBook Air 13" (pārgāja sievas īpašumā)', new Date(2011, 6, 4), new Date(today)],
     ['Dators', 'MacBook Pro 13"', new Date(2015, 3, 18), new Date(today)],
+    ['Dators', 'Mac mini (M1, 2020) 16GB 1TB', new Date(2021, 0, 29), new Date(today)],
     ['Pele', 'Apple Magic Trackpad (ar baterijām)', new Date(2016, 11, 04), new Date(today)],
     ['Pele', 'Apple Magic Mouse 2', new Date(2016, 11, 04), new Date(today)],
     ['Klaviatūra', 'Apple Magic Keyboard ar baterijām (Latvijā)', new Date(2012, 06, 06), new Date(today)],
@@ -93,6 +94,7 @@ function drawChart() {
     ['Kafijas aparāts', 'Aeropress', new Date(2015, 11, 24), new Date(today)],
     ['Kafijas aparāts', 'DeLonghi Dedica', new Date(2018, 1, 5), new Date(today)],
     ['Kafijas aparāts', 'Sage the Barista Express', new Date(2020, 4, 15), new Date(today)],
+    ['Kafijas aparāts', 'Nespresso Essenza Plus', new Date(2021, 1, 4), new Date(today)],
     ['Velo', 'Hasa Comp 6.0', new Date(2002, 5, 27), new Date(2011, 2, 20)],
     ['Velo', 'Panasonic elektriskais', new Date(2018, 7, 25), new Date(today)]
 
