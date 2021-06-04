@@ -44,6 +44,7 @@ function drawChart() {
     ['Fotoaparāts', 'Panasonic Lumix DMC-FZ30, tagad lieto kāds no radiem', new Date(2006, 3, 30), new Date(today)],
     ['Fotoaparāts', 'Canon 450D kādus gadus lietoju paralēli Sony, tagad krāj putekļus', new Date(2009, 2, 4), new Date(today)],
     ['Fotoaparāts', 'Sony NEX-6', new Date(2013, 11, 30), new Date(today)],
+    ['Fotoaparāts', 'Fujifilm X-T4', new Date(2021, 5, 4), new Date(today)],
     ['Drons', 'DJI Mavic Mini', new Date(2020, 9, 8), new Date(today)],
     ['Dators', 'iMac 27"', new Date(2010, 8, 22), new Date(2011, 5, 20)],
     ['Dators', 'MacBook Air 13" (pārgāja sievas īpašumā)', new Date(2011, 6, 4), new Date(today)],
