@@ -102,7 +102,7 @@ function drawChart() {
     ['Kafijas aparāts', 'Nespresso Essenza Plus', new Date(2021, 1, 4), new Date(today)],
     ['Kafijas aparāts', 'Breville The Grind Control (Japānā, pirkts lietots) 90EUR', new Date(2021, 10, 11), new Date(today)],
     ['Soma', 'Crumpler - The Super Boomer L (messenger bag)', new Date(2007, 8, 18), new Date(2022, 1, 1)],
-    ['Soma', 'Peak Design - Everyday Messenger', new Date(2022, 1, 1), new Date(today)],
+    ['Soma', 'Peak Design - Everyday Messenger', new Date(2022, 0, 31), new Date(today)],
     ['Velo', 'Hasa Comp 6.0', new Date(2002, 5, 27), new Date(2011, 2, 20)],
     ['Velo', 'Panasonic elektriskais', new Date(2018, 7, 25), new Date(today)],
     ['Velo', 'Triban RC520 (Šosejas velo veselībai)', new Date(2021, 11, 26), new Date(today)]
