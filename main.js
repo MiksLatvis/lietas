@@ -36,6 +36,7 @@ function drawChart() {
     ['Dzīvesvieta', 'Japāna, Yokohama', new Date(2016, 8, 30), new Date(2019, 11, 1)],
     ['Dzīvesvieta', 'Latvija, Sigulda', new Date(2019, 11, 2), new Date(2020, 11, 20)],
     ['Dzīvesvieta', 'Japāna, Yokohama', new Date(2020, 11, 20), new Date(2023, 5, 21)],
+    ['Dzīvesvieta', 'Latvija', new Date(2023, 5, 21), new Date(today)],
     ['Ģimenes transporta līdzeklis', 'Alfa Romeo 147', new Date(2008, 8, 22), new Date(2015, 6, 20)],
     ['Ģimenes transporta līdzeklis', 'Honda SuperCub (Kambodžā)', new Date(2012, 7, 27), new Date(2015, 5, 15)],
     ['Ģimenes transporta līdzeklis', 'Honda SuperCub (dzīvo Latvijā, tiek katru vasaru darbināts priekam)', new Date(2015, 5, 15), new Date(today)],
